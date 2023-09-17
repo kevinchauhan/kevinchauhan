@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Chauhan</h1>
 <h3 align="center">A passionate MERNSTACK learner from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="kevinchauhan" height="30" width="40" />
+<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="kevinchauhan" height="100" width="100" />
 
 - 🌱 I’m currently learning **MERN**
 
